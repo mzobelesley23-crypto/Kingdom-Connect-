@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Connect",
+  "description": "A modern Christian digital platform designed to connect with God, connect with people, grow, belong, and serve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
